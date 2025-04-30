@@ -1,6 +1,8 @@
-# Designing Algorithms
+# 1.7 Algorithm Design Methods
 
-This repository contains resources for the **Designing Algorithms** module of Stage 6 Software Engineering. Students are expected to download, complete, and organise these tasks in their own working repositories using the IDE of their choice (e.g. PyCharm, JupyterLab, WebStorm).
+This repository contains resources for the [1.7 Algorithm design methods](https://conceptstocode.apolloacademy.au/1.7-algorithm-design-methods) Stage 6 HSC Software Engineering textbook [Concepts to Code: Beginning Software Engineering](https://conceptstocode.apolloacademy.au/). 
+
+Students should download, complete, and organise these tasks in their own working repositories using the IDE of their choice (e.g. PyCharm, JupyterLab, WebStorm, Visual Studio, etc.)
 
 ## Structure
 
@@ -10,16 +12,10 @@ This repository contains resources for the **Designing Algorithms** module of St
 - **clearance/**: Assessment-style review tasks for checking logic and flow.
 - **mission/**: A major design task involving full decomposition and refinement.
 - **debrief/**: A structured reflection task to evaluate your approach and thinking.
-- **reference/**: Supplementary material including pseudocode conventions and formatting guidelines.
 
 ## Instructions
 
-1. Clone or download the files you need.
+1. Clone or download the files you need. This can also be done directly from the textbook.
 2. Work locally using your preferred IDE or notebook environment.
 3. Save your progress in your own GitHub repository.
-4. Use the `operations-manual/` as your go-to reference for decomposition, desk checking, and structure charts.
-
-## Licence
-
-Materials are provided for educational use only within the Stage 6 Software Engineering curriculum.
-
+4. Use the Manual in the textbook as your go-to reference for decomposition, desk checking, and structure charts.
