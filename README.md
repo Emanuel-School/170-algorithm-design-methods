@@ -1,21 +1,37 @@
-# 1.7 Algorithm Design Methods
+# 170 Algorithm Design Methods
 
-This repository contains resources for the [1.7 Algorithm design methods](https://conceptstocode.apolloacademy.au/1.7-algorithm-design-methods) Stage 6 HSC Software Engineering textbook [Concepts to Code: Beginning Software Engineering](https://conceptstocode.apolloacademy.au/). 
+This repository contains all resources for the **1.7 Algorithm Design Methods** module, part of the Stage 6 Software Engineering course.
 
-Students should download, complete, and organise these tasks in their own working repositories using the IDE of their choice (e.g. PyCharm, JupyterLab, WebStorm, Visual Studio, etc.)
+It aligns with the [Concepts to Code](https://conceptstocode.apolloacademy.au) textbook section [1.7 Algorithm Design Methods](https://conceptstocode.apolloacademy.au/1.7-algorithm-design-methods) and provides structured materials for:
 
-## Structure
+- 171 Operations Manual (reference and theory)
+- 172 Training (practical microlabs and exercises)
+- 173 Simulation (macrolab design challenge)
+- 174 Clearance (mastery and synthesis questions)
+- 175 Mission (holistic project task)
 
-- **operations-manual/**: Authoritative reference on algorithm design strategies.
-- **training/**: Microlabs for developing skills in decomposition, pseudocode, and structure.
-- **simulation/**: A macrolab challenge to integrate and apply your algorithm design skills.
-- **clearance/**: Assessment-style review tasks for checking logic and flow.
-- **mission/**: A major design task involving full decomposition and refinement.
-- **debrief/**: A structured reflection task to evaluate your approach and thinking.
+## Repository Structure
 
-## Instructions
+```
+170-algorithm-design-methods/
+├── README.md
+├── 172-training/
+│   └── 172-training.ipynb
+├── 173-simulation/
+│   ├── 173-simulation.py
+│   └── instructions.md
+├── 174-clearance/
+│   └── 174-clearance.ipynb
+├── 175-mission/
+│   ├── 175-mission.py
+│   └── instructions.md
+```
 
-1. Clone or download the files you need. This can also be done directly from the textbook.
-2. Work locally using your preferred IDE or notebook environment.
-3. Save your progress in your own GitHub repository.
-4. Use the Manual in the textbook as your go-to reference for decomposition, desk checking, and structure charts.
+## How to Use
+
+- Download or clone the repository.
+- Follow the instructions provided in each section.
+- Complete exercises, challenges, and projects using the recommended IDE or notebook environment.
+- Push your completed work to your own GitHub repository as instructed.
+
+For detailed learning objectives and context, refer to the matching textbook section.
