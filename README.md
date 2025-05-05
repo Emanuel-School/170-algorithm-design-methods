@@ -3,8 +3,6 @@
 This repository contains all resources for the **1.7 Algorithm Design Methods** module, part of the Stage 6 Software Engineering course.
 
 It aligns with the [Concepts to Code](https://conceptstocode.apolloacademy.au) textbook section [1.7 Algorithm Design Methods](https://conceptstocode.apolloacademy.au/1.7-algorithm-design-methods) and provides structured materials for:
-
-- 171 Operations Manual (reference and theory)
 - 172 Training (practical microlabs and exercises)
 - 173 Simulation (macrolab design challenge)
 - 174 Clearance (mastery and synthesis questions)
